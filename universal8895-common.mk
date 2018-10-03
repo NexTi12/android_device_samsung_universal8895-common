@@ -308,4 +308,4 @@ $(call inherit-product, hardware/samsung_slsi-cm/exynos5/exynos5.mk)
 $(call inherit-product, hardware/samsung_slsi-cm/exynos8895/exynos8895.mk)
 
 # call the proprietary setup
-$(call inherit-product, vendor/samsung/universal8895-common/universal8895-common-vendor.mk)
+# $(call inherit-product, vendor/samsung/universal8895-common/universal8895-common-vendor.mk)
